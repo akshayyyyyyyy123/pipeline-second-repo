@@ -1,7 +1,7 @@
 public class ArrayAnalysis {
     public static void main(String[] args) {
         // Define the array
-        int[] numbers = {23, 1, 45, 78, 12, 56, 99, 34, 8};
+        int[] numbers = {101, 23, 1, 45, 78, 12, 56, 99, 34, 8};
         
         // Print the array
         System.out.print("Array: ");
