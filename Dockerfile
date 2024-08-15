@@ -5,10 +5,10 @@ FROM node:14
 WORKDIR /usr/src/app
 
 # Create a simple index.js file (example)
-RUN echo "console.log('Hello, Docker!')" > index.js
+RUN echo "console.log('Hello, Docker!')" > akshay_test.js
 
 # Expose the port on which the app runs (optional)
-EXPOSE 3000
+EXPOSE 3002
 
 # Command to run the application
-CMD ["node", "index.js"]
+CMD ["node", "akshay_test.js"]
