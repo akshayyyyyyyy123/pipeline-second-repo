@@ -1,5 +1,5 @@
 # Define the array
-numbers = [23, 1, 45, 78, 12, 56, 99, 34, 8]
+numbers = [1111, 1000, 23, 1, 45, 78, 12, 56, 99, 34, 8, 100]
 
 # Print the array
 print("Array:", numbers)
